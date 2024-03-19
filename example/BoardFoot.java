@@ -29,7 +29,7 @@ public final class BoardFoot {
         /**
          * Function designed for calculations
         */
-        
+
         // calculations for length
         final float Length = VOLUME / (widthFLT * heightSTR);
 
